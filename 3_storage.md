@@ -192,7 +192,7 @@ Change to the scratch directory and run the python script that lists the data in
 
 ```
 cd /scratch
-wget https://raw.githubusercontent.com/mahidhar/sc24_k8s_tutorial/refs/heads/main/list-download-s3.py
+wget https://raw.githubusercontent.com/mahidhar/6nrp_k8s_tutorial/refs/heads/main/list-download-s3.py
 python3 list-download-s3.py
 ```
 
