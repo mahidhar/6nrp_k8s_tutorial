@@ -1,7 +1,6 @@
 # 6NRP Kubernetes Tutorial
 
-Typical usage workflow\
-Hands on session
+Applications Hands on session
 
 ## Use an existing application container to run jobs
 
